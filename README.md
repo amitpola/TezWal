@@ -62,12 +62,17 @@ You should have **Flutter (v1.22.6)** installed and properly set up on your syst
 `exit-> quits app`<br>
 
 # Screenshots :
-![WhatsApp Image 2021-07-25 at 5 01 30 PM](https://user-images.githubusercontent.com/61025991/126901083-02c86f27-4c02-4168-9ac6-18b26d30c6f0.jpeg)
-![WhatsApp Image 2021-07-25 at 5 01 34 PM](https://user-images.githubusercontent.com/61025991/126901119-3ce94321-7f1e-4304-982b-f864b11e2f75.jpeg)
-![WhatsApp Image 2021-07-25 at 5 01 35 PM (1)](https://user-images.githubusercontent.com/61025991/126901125-b57fd379-220c-4fed-ba82-5a98644db87e.jpeg)
-![WhatsApp Image 2021-07-25 at 5 01 35 PM](https://user-images.githubusercontent.com/61025991/126901131-69cb7aef-ab0d-41c4-8e79-07ed4554153c.jpeg)
-![WhatsApp Image 2021-07-25 at 5 01 36 PM](https://user-images.githubusercontent.com/61025991/126901158-290e5eef-b63d-4da1-9f14-b1a158a6fb55.jpeg)
-![WhatsApp Image 2021-07-25 at 5 01 37 PM (1)](https://user-images.githubusercontent.com/61025991/126901164-3612bb68-c40e-4460-98df-45eae508532f.jpeg)
-![WhatsApp Image 2021-07-25 at 5 01 37 PM](https://user-images.githubusercontent.com/61025991/126901166-b9376674-ff1d-4b23-a9e9-5fbf2c59d88f.jpeg)
-![WhatsApp Image 2021-07-25 at 5 01 38 PM](https://user-images.githubusercontent.com/61025991/126901281-60da23b6-d798-4214-a49f-9dd2b3698c0b.jpeg)
 
+<p align="center">
+  <img width="230" src="screenshots/1.jpeg"/>
+  <img width="230" src="screenshots/2.jpeg"/>
+  <img width="230" src="screenshots/3.jpeg"/>
+  <img width="230" src="screenshots/4.jpeg"/>
+</p>
+
+<p align="center">
+  <img width="230" src="screenshots/5.jpeg"/>
+  <img width="230" src="screenshots/6.jpeg"/>
+  <img width="230" src="screenshots/7.jpeg"/>
+  <img width="230" src="screenshots/8.jpeg"/>
+</p>
