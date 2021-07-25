@@ -18,7 +18,7 @@ class _DashboardPageState extends State<Dashboard> {
   Wallet _wallet;
   String _amountString;
   final String server = 'https://rpcalpha.tzbeta.net';
-  final double currentValue = 2.52;
+  final double currentValue = 2.82;
 
   getBalance(String walletAddress) async {
     String balance = await TezsterDart.getBalance(
