@@ -34,7 +34,7 @@ You should have **Flutter (v1.22.6)** installed and properly set up on your syst
 1. Clone the repo:
   
   ```sh
-  git clone https://github.com/CalanPereira/TezWal-1.git
+  git clone https://github.com/amitpola/TezWal.git
   ```
 
 2. Navigate to the directory:
