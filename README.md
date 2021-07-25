@@ -56,8 +56,8 @@ You should have **Flutter (v1.22.6)** installed and properly set up on your syst
   ```
 
 ## Routings :
-`home -> hompage of the  app` <br>
-`create-wallet-> cretaet wallet page`<br>
+`home -> homepage of the  app` <br>
+`create-wallet-> cretaed wallet page`<br>
 `help-> chatbot`<br>
 `exit-> quits app`<br>
 
