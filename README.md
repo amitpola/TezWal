@@ -1,6 +1,6 @@
 # Tezwal ✨
 
-Tezwal is a crypto wallet for tezos xtz  using tezos as the block chain technology in the backend. 🎈
+Tezwal is a crypto wallet for tezos xtz using tezos as the block chain technology in the backend. 🎈
 
 ## Getting Started
 Tezwal is a flutter based Tezos Wallet that uses Hive and tezter_dart and helps in storing and sending/receiving funds with ease.It is secure as it is built totally on Tezos platform.
