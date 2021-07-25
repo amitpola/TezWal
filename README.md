@@ -64,13 +64,15 @@ You should have **Flutter (v1.22.6)** installed and properly set up on your syst
 # Screenshots :
 
 <p align="center">
-  <img width="260" src="screenshots/1.jpeg"/>
-  <img width="260" src="screenshots/2.jpeg"/>
-  <img width="260" src="screenshots/3.jpeg"/>
+  <img width="230" src="screenshots/1.jpeg"/>
+  <img width="230" src="screenshots/2.jpeg"/>
+  <img width="230" src="screenshots/3.jpeg"/>
+  <img width="230" src="screenshots/4.jpeg"/>
 </p>
 
 <p align="center">
-  <img width="260" src="screenshots/5.jpeg"/>
-  <img width="260" src="screenshots/6.jpeg"/>
-  <img width="260" src="screenshots/7.jpeg"/>
+  <img width="230" src="screenshots/5.jpeg"/>
+  <img width="230" src="screenshots/6.jpeg"/>
+  <img width="230" src="screenshots/7.jpeg"/>
+  <img width="230" src="screenshots/8.jpeg"/>
 </p>
