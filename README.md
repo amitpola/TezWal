@@ -52,7 +52,7 @@ You should have **Flutter (v1.22.6)** installed and properly set up on your syst
 4. Run the app in terminal :
 
   ```sh
-  flutter run --no-null-space
+  flutter run --no-sound-null-safety
   ```
 
 ## Routings :
